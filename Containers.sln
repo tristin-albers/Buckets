@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buckets", "Buckets\Buckets.csproj", "{B18A191A-9010-479F-9BDB-D491D0F192F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Containers.Test", "Buckets\Containers.Test.csproj", "{B18A191A-9010-479F-9BDB-D491D0F192F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
